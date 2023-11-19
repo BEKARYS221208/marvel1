@@ -1,0 +1,216 @@
+		@font-face {
+			font-family: marvel;
+			src: url(marvel.ttf);
+		}
+
+		.box-header {
+			height: 80px;
+			width: 1900px;
+			margin-left: auto;
+			margin-right: auto;
+			background: #c1c4c9;
+		}
+
+		.text {
+            font-family: marvel;
+		}
+
+		.box-banner {
+			height: 500px;
+			width: 1750px;
+			margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+		}
+
+		.box1 {
+			height: 350px;
+			width: 1250px;
+			margin-top: 20px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.box-shop {
+			height: 450px;
+			width: 1200px;
+			margin-top: 30px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.box1kadr {
+			height: 300px;
+			width: 300px;
+		}
+
+		.box2kadr {
+			height: 300px;
+			width: 300px;
+			margin-left: 5px;
+		}
+
+		.box3kadr {
+			height: 300px;
+			width: 300px;
+			margin-left: 5px;
+		}
+
+		.box4kadr {
+			height: 300px;
+			width: 300px;
+			margin-left: 5px;
+		}
+
+		.d-flex {
+			display: flex;
+		}
+
+		.shop1 {
+			height: 350px;
+			width: 300px; 
+		}
+
+		.shop2 {
+			height: 350px;
+			width: 300px;
+			margin-left: 10px;
+		}
+
+		.shop3 {
+			height: 350px;
+			width: 300px;
+			margin-left: 10px;
+		}
+
+		.shop4 {
+			height: 350px;
+			width: 300px;
+			margin-left: 10px;
+		}
+
+		.website-a-blue {
+			color: blue;
+			text-decoration: none;
+			font-size: 25px;
+			margin-left: 30px;
+			transition: 1s;
+		}
+
+		.website-a-yellow {
+			color: yellow;
+			text-decoration: none;
+			font-size: 25px;
+			margin-left: 30px;
+			transition: 1s;
+		}
+
+		.website-a-purple {
+			color: purple;
+			text-decoration: none;
+			font-size: 25px;
+			margin-left: 30px;
+			transition: 1s;
+		}
+
+		.website-a-green {
+			color: green;
+			text-decoration: none;
+			font-size: 25px;
+			margin-left: 30px;
+			transition: 1s;
+		}
+
+		.box-logo {
+			height: 80px;
+			width: 400px;
+		}
+
+		.box-website {
+			height: 55px;
+			padding-left: 300px;
+			width: 1600px;
+			padding-top: 25px;
+		}
+
+		.logo-marvel {
+			height: 80px;
+			margin-left: 100px;
+		}
+
+		.marvelbanner {
+			height: 500px;
+			width: 1750px;
+		}
+
+		.box-textkadr {
+			text-align: center;
+		}
+
+		.box-kadr {
+			height: 300px;
+			width: 1250px;
+		}
+
+		.box-textshop {
+			height: 50px;
+			width: 1200px;
+		}
+
+		.box-shop1234 {
+			height: 400px;
+			width: 1200px;
+		}
+
+		.kadr {
+			height: 300px;
+			width: 300px;
+		}
+
+		.shop {
+			height: 300px;
+			width: 300px;
+		}
+
+		.button {
+			background: green;
+			color: white;
+			height: 30px;
+			width: 100px;
+			border-radius: 10px;
+			border: none;
+			transition: 1s;
+		}
+
+		.text-shop {
+			font-size: 20px;
+			color: black;
+		}
+
+		.website-a-blue:hover {
+			color: #062557;
+			font-size: 35px;
+		}
+
+		.website-a-green:hover {
+			color: #065207;
+			font-size: 35px;
+		}
+
+		.website-a-purple:hover {
+			color: #2c0652;
+			font-size: 35px;
+		}
+
+		.website-a-yellow:hover {
+			color: #524f06;
+			font-size: 35px;
+		}
+
+		.button:hover {
+			background: #065207;
+			height: 35px;
+			width: 115px;
+		}
+
+
